@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Magestic Tiger</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Week 4 assignment CIS212. Favorite Animal and Why">
+        <meta name="Author" content="Albert Caraballo CIS212">
+</head>
+<body>
+    <h1>The Magestic Tiger</h1>
+    <img src="ShereKhan1967Render.webp" alt="Shere Khan" height="204" width="250">
+    <h3>Tigers are the Best!</h3>
+    <p>My interest in tigers came from the infamous feline villain from Walt Disney's "The Jungle Book," Shere Khan! Who also appeared in the spinoff Disney cartoon series "Tale Spin." His snarky overconfidence was something to enjoy.</p>
+    <h3>Siberian Tiger</h3>
+    <img src="Siberian Tiger.jpg" alt="Siberian Tiger" height="190" width="250">
+    <p><a href="https://www.nationalgeographic.com/animals/mammals/facts/siberian-tiger">National Geographic #Siberian Tiger</a>
+    </p>
+        <p><h3>The Siberian tiger is awesome!</h3></p>
+<p>The Siberian Tiger (Pictured Above) is my favorite breed of Tiger, though all tigers are pretty amazing creatures. Another reason I like the Tiger so much is because the standard black and orange color scheme is also my high school colors.</p>
+<footer>Albert Caraballo CIS212</footer>
+</body>
+
+</html>
